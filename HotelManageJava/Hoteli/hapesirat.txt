@@ -1,0 +1,4 @@
+DhomaStandarde:309: E vogel komode:30.99:false
+DhomaVIP:810: Te gjitha gjerat:149.99:true 
+Restorant:107:Me ambient te mire: 219.95:600
+SallePerKonferenca:107: Hapsira e zgjeruar:89.95:25

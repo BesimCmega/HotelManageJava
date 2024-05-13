@@ -1,0 +1,5 @@
+Besim;30;M
+Filan;35;M
+Blerim;32;M
+Lavdim31;M
+Olt;32;M
